@@ -1,0 +1,18 @@
+Button{
+    background: brown;
+    font-size: 14px;
+    border:0;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.padrao{
+    background: blue;
+}
+.sucesso{
+    background: green;
+}
+.cancelar{
+    background: red;
+}
